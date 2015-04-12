@@ -1,0 +1,8 @@
+=encoding utf8
+
+=head1 ABOUT
+
+This repository contains programs that Shlomi Fish used to try to learn
+Prolog.
+
+=cut
